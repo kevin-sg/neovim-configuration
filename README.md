@@ -1,6 +1,6 @@
 # Neovim Configuration
 
-This is my personal configuration for Neovim. It is heavily inspired by
+This is my personal configuration for Neovim.
 
 Confirmed to work with Neovim 0.8.0.
 
@@ -10,7 +10,7 @@ Clone this repository into your Neovim configuration directory:
 
 ```bash
 git clone https://github.com/kevin-sg/neovim-configuration.git
-cd noveim-configuration
+cd neovim-configuration
 ```
 
 Copy the `init.vim` file to your Neovim configuration directory:
